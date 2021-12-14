@@ -1,0 +1,55 @@
+.new-event-form label,
+.new-event-form input {
+  display: block;
+  text-align: left;
+  width: 100%;
+  margin: 10px auto;
+  padding: 10px;
+  box-sizing: border-box;
+  font-size: 1.2em;
+}
+
+.modal {
+  padding: 1px;
+  max-width: 480px;
+  margin: 200px auto;
+  background: #fff;
+  border-radius: 10px;
+}
+
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 40%;
+  height: 90%;
+  background: hsla(0, 0%, 100%, 0.918);
+  margin-left: 30%;
+  border: rgba(0, 0, 0, 0.445) solid 0.5px;
+}
+.modal {
+  padding: 1px;
+  max-width: 480px;
+  margin: 200px auto;
+  background: #fff;
+  border-radius: 10px;
+}
+.modal h2 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.clicks {
+  background: #1227e9;
+  color: #fff;
+  padding: 15px;
+  border: 80;
+  border-radius: 12px;
+  margin: 10px auto;
+  cursor: pointer;
+  margin-right: 140px;
+}
+.container-clicks {
+  display: flex;
+  flex-direction: row;
+}
