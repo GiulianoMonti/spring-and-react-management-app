@@ -1,3 +1,3 @@
 <strong>app</strong>
 
-<img src ="images/francogiul.png" width="70%">
+<img src ="images/francogiul.png" width="600">
