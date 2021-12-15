@@ -1,3 +1,4 @@
-<strong>app</strong>
+<strong>paginacion rect spring</strong>
 
-<img src ="images/francogiul.png" width="600">
+<img src ="images/a.png" width="600">
+<img src ="images/b.png" width="600">
