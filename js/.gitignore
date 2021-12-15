@@ -18,9 +18,12 @@
 .env.test.local
 .env.production.local
 .history
-app.css
+App.css
 NewEventForm.js
 EventList.js
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+App.js
+src/App.js
+src/components/Title.js

@@ -1,12 +1,13 @@
 
 
-package com.alkemy.java.util;
+package g.react.util;
 
-import java.util.HashMap;
-import java.util.Map;
-import javax.servlet.http.HttpServletRequest;
 import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Service;
+
+import javax.servlet.http.HttpServletRequest;
+import java.util.HashMap;
+import java.util.Map;
 
 @Service
 public class UtilPagination {

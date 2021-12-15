@@ -1,2 +1,18 @@
-package g.react.model.dto;public class PageDto {
+package g.react.model.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import org.springframework.data.domain.Page;
+
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class PageDto <T>{
+    private Page<T> content;
+    private Map<String,String> links = new HashMap<>();
 }
